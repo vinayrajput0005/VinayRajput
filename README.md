@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vinay Rajput!  
 **Learning from the data | Innovating with bioinformatics**
 
-👨‍🔬 Bioinformatics Analyst  
+👨‍🔬 Bioinformatics Scientist | PhD Researcher  
 🔭 Currently at CSIR-NCL, Pune  
 💻 Experienced in NGS analysis, variant calling, metagenomics, and bioinformatics pipeline development  
 📊 Proficient in Python, R, and data visualization  
